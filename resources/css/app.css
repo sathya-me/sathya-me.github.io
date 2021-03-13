@@ -1,0 +1,50 @@
+.profile-block {
+    margin-top: 100px;
+}
+
+.name {
+    font-size: 4.0em;
+    font-family: "Helvetica";
+}
+
+.description {
+    font-size: 1.3em;
+    font-family: "Helvetica";
+    color: #666;
+}
+
+.links {
+    font-size: 1.1em;
+    font-family: "Helvetica";
+    text-align: center;
+}
+
+.links a {
+    padding: 0px 10px;
+    text-decoration: none;
+    font-family: "Helvetica";
+    color: #3fa757;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
+
+.footer {
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    height:80px;
+    text-align: center;
+}
+
+.footer ul { 
+    overflow-x:hidden;
+    white-space:nowrap; 
+} 
+
+.footer li { 
+    display:inline; 
+    padding: 0px 5px;
+} 
