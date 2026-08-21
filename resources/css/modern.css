@@ -366,6 +366,10 @@ body {
     text-decoration: none;
 }
 
+.footer-bottom a:hover {
+    color: var(--text);
+}
+
 @media (min-width: 768px) {
     .mobile-menu-button {
         display: none;
