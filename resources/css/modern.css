@@ -380,7 +380,7 @@ body {
     }
 
     .social-links {
-        grid-template-columns: repeat(3, max-content);
+        grid-template-columns: repeat(auto-fit, max-content);
     }
 
     .footer-grid {
